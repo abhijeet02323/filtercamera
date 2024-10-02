@@ -1,5 +1,5 @@
-Flask==2.1.1          # Web framework
-opencv-python==4.5.5  # OpenCV for computer vision tasks
-gunicorn==20.1.0      # WSGI server for running the app
-numpy==1.21.0         # Library for numerical computations
-boto3==1.24.0         # AWS SDK for Python (for working with AWS services)
+Flask==2.1.1
+opencv-python==4.10.0.84  # Use a compatible version
+gunicorn==20.1.0
+numpy==1.21.0
+boto3==1.24.0
