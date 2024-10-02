@@ -1,4 +1,5 @@
-pip install boto3
-pip install numpy
-pip install Flask
-pip install opencv-python
+Flask==2.1.1          # Web framework
+opencv-python==4.5.5  # OpenCV for computer vision tasks
+gunicorn==20.1.0      # WSGI server for running the app
+numpy==1.21.0         # Library for numerical computations
+boto3==1.24.0         # AWS SDK for Python (for working with AWS services)
